@@ -1,4 +1,8 @@
-### Hi there 👋
+### hi
+
+<!-- I'm a 20 yrs old software engineer fully into web3 rn -->
+
+<!-- I write about tech stuff [here](http://gregs.vercel.app/) sometimes -->
 
 <!--
 **greg-schrammel/greg-schrammel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
